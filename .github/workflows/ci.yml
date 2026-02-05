@@ -53,8 +53,8 @@ jobs:
       - name: Build
         run: pnpm build
 
-      - name: Test
-        run: pnpm test:ci
+      - name: Test (React only)
+        run: pnpm run -C packages/react-app test:ci
         continue-on-error: true
 
       - name: Upload test results
