@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 import ArcProjectCard from "~shared/controls/ArcProjectCard"
 import type ArcDeviceInfo from "~shared/types/arc-device-info"
 

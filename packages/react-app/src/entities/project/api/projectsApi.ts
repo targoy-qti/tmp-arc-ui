@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 import type {ProjectInfoResponseDto} from "~entities/project/model/project.dto"
 import {httpClient} from "~shared/api/http-client"
 import type {ApiResult} from "~shared/api/types"

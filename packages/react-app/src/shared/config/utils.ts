@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 import {DEFAULT_USER_PREFERENCES} from "./user-preferences-types"
 
 export type JSONDataMap = {

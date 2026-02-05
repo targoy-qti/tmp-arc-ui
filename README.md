@@ -179,4 +179,7 @@ npm config set strict-ssl false
 ```
 
 For other common issues, please refer to the [Electron documentation](https://www.electronjs.org/docs/latest/).
->>>>>>> 37f9928 (feat(workspace): initialize AudioReach Creator monorepo)
+
+## License
+
+AudioReach Creator (ARC) is licensed under the [BSD-3-Clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.

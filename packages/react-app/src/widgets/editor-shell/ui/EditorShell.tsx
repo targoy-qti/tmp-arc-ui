@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 import {useEffect, useRef} from "react"
 
 import {ConfigFileManager} from "~shared/config/config-manager"

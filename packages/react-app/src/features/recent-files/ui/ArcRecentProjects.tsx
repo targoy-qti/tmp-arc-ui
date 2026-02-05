@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
 import {SessionMode} from "~entities/project/model/project.dto"
 import ArcProjectCard from "~shared/controls/ArcProjectCard"
 import type ArcProjectInfo from "~shared/types/arc-project-info"
