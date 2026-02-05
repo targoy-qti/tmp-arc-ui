@@ -3,13 +3,12 @@ name: Qualcomm Preflight Checks
 on:
   pull_request:
     branches: [main, "feature/*"]
-  push:
-    branches: [main, "feature/*"]
   workflow_dispatch:
 
 permissions:
   contents: read
   security-events: write
+  pull-requests: read
 
 jobs:
   qcom-preflight-checks:
