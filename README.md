@@ -182,4 +182,4 @@ For other common issues, please refer to the [Electron documentation](https://ww
 
 ## License
 
-AudioReach Creator (ARC) is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
+AudioReach Creator (ARC) is licensed under the [BSD-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
