@@ -1,10 +1,7 @@
 /*
- * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
+ * Copyright (c) Tarun
  * SPDX-License-Identifier: BSD-3-Clause
  * 
- * This file demonstrates COPYRIGHT DELETION scenario.
- * If you remove the "Copyright (c) 2023 Original Developer" line below,
- * it should FAIL with: "Copyright deletions detected"
  * 
  * Original copyright that should NOT be removed:
  * Copyright (c) 2023 Original Developer

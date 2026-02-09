@@ -14,6 +14,7 @@
  * This is a custom freeware license that scancode will identify as unknown.
  */
 
+
 import Foundation
 
 class Calculator {

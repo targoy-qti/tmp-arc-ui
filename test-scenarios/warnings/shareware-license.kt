@@ -1,21 +1,15 @@
 /*
- * Copyright (c) 2024 Shareware Author
+ * Copyright (c) 2024 Change Author
+ * Copyright (c) 2023 ThirdParty Software Inc. - All Rights Reserved
  * 
- * SHAREWARE LICENSE AGREEMENT
+ * PROPRIETARY AND CONFIDENTIAL
  * 
- * This is shareware software. You may try this software for a 30-day evaluation
- * period. After the evaluation period, you must either register the software by
- * paying the registration fee or discontinue use.
+ * This software contains proprietary information belonging to ThirdParty Software Inc.
+ * Unauthorized copying, distribution, or use of this software is strictly prohibited.
  * 
- * TRIAL VERSION LIMITATIONS:
- * - Limited to 30 days of use
- * - Some features may be disabled
- * - Registration required for continued use
- * 
- * DISTRIBUTION: You may freely distribute the unregistered version of this
- * software, provided that no fee is charged and the software is not modified.
- * 
- * This is a custom shareware license that scancode will identify as unknown.
+ * THIRD PARTY COMPONENTS:
+ * This software includes proprietary components from ThirdParty Software Inc.
+ * which are subject to separate license terms and restrictions..
  */
 
 package com.example.utils
