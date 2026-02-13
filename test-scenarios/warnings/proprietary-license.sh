@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (c) 2024 Proprietary Software Inc.
+# Copyright (c) Proprietary Software Inc.
 # 
 # PROPRIETARY AND CONFIDENTIAL
 # 

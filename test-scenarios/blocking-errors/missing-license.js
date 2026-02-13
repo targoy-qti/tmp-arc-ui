@@ -5,6 +5,7 @@
  * This is a new source file without proper licensing information.
  */
 
+
 function calculateArea(width, height) {
     return width * height;
 }

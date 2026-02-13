@@ -1,12 +1,7 @@
 /*
  * Copyright (c) 2023 Original Author
  * Copyright (c) Qualcomm Technologies, Inc. and/or its subsidiaries.
- * SPDX-License-Identifier: BSD-3-Clause
- */
-
-/**
- * This file demonstrates proper handling of multiple copyright holders.
- * This should PASS - multiple copyrights are allowed and encouraged.
+ * SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0
  */
 
 #include <iostream>
